@@ -1,2 +1,2 @@
 # farhana
-This is my first get Repository
+This is my first Git Repository
